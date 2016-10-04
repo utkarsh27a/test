@@ -1,5 +1,8 @@
 <?php
+
+
 $str = 'abcdefdvcsdfclkoubbszfffffijklmnopqrstvwxyzgh';
+
 $arr = Array();
 $abc = Array();
 $count = 0;
